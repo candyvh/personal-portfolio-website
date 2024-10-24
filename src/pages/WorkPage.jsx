@@ -66,9 +66,9 @@ export const WorkPage = () => {
           </div>
         );
       case "experience":
-        return <div></div>;
+        return <div>Experience content goes here...</div>;
       case "education":
-        return <div></div>;
+        return <div>Education content goes here...</div>;
       default:
         return null;
     }
@@ -82,10 +82,10 @@ export const WorkPage = () => {
           className="relative w-full flex justify-center items-center bg-cover bg-top bg-no-repeat"
           style={{
             backgroundImage: `url(${menuBG})`,
-            height: "128px",
+            height: "187px",
           }}
         >
-          <div className="absolute w-3/4 sm:w-1/2 flex justify-between items-center text-lg text-white">
+          <div className="absolute w-1/2 flex justify-between items-center text-2xl text-white">
             <h3
               className={`cursor-pointer ${
                 activeTab === "work" ? "font-bold" : ""

@@ -14,13 +14,13 @@ export const LandingPage = () => {
         <Header />
 
         <div
-          className="h-[50%] w-3/4 sm:w-1/2 md:w-1/3 lg:w-1/4 bg-no-repeat bg-center mb-12"
+          className="h-1/2 w-1/2 bg-no-repeat bg-center mb-12"
           style={{
             backgroundImage: `url(${profilePic})`,
-            backgroundSize: "contain",
           }}
         ></div>
       </div>
     </div>
   );
 };
+
