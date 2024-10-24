@@ -34,7 +34,7 @@ const App = () => {
   };
 
   return (
-    <Router>
+    <Router basename="/personal-portfolio-website">
       <div className="bg-[#4B2A33] relative">
         {/* LandingPage */}
         <div className="h-screen z-10" onClick={handleHeaderClick}>
