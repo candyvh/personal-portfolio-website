@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/personal-portfolio-website/static/css/main.36ef2849.css",
+    "main.js": "/personal-portfolio-website/static/js/main.c9d4bc1e.js",
+    "static/js/453.825e3387.chunk.js": "/personal-portfolio-website/static/js/453.825e3387.chunk.js",
+    "static/media/jmpLandingPage.png": "/personal-portfolio-website/static/media/jmpLandingPage.d19e72d7eb6c1905a3bd.png",
+    "static/media/Details.png": "/personal-portfolio-website/static/media/Details.f8cdcef6ef484738f3df.png",
+    "static/media/landingPageJMP.png": "/personal-portfolio-website/static/media/landingPageJMP.4a3ff29d5ee2737fb017.png",
+    "static/media/Pic_noBG.svg": "/personal-portfolio-website/static/media/Pic_noBG.009843598c511b2e530f44be86fa6eaa.svg",
+    "static/media/productDetailPage.png": "/personal-portfolio-website/static/media/productDetailPage.dba041726af9e0406f56.png",
+    "static/media/fleetJMP.png": "/personal-portfolio-website/static/media/fleetJMP.694770a3a45ea16432b2.png",
+    "static/media/landingPage.png": "/personal-portfolio-website/static/media/landingPage.f5084288f5bbec2029f7.png",
+    "static/media/loadJMP.png": "/personal-portfolio-website/static/media/loadJMP.2ee2ce1c795616f4e7ac.png",
+    "static/media/home page.jpg": "/personal-portfolio-website/static/media/home page.323da3c800cc316c6b01.jpg",
+    "static/media/personalWebLP.png": "/personal-portfolio-website/static/media/personalWebLP.172ee0a3db8509e2208d.png",
+    "static/media/counseling page.jpg": "/personal-portfolio-website/static/media/counseling page.4b4978758c0da3bedc2e.jpg",
+    "static/media/eventBanner1.png": "/personal-portfolio-website/static/media/eventBanner1.c577d5c57bde75157d71.png",
+    "static/media/eventBanner.png": "/personal-portfolio-website/static/media/eventBanner.44a635420a2ad4a69aa5.png",
+    "static/media/productPage.png": "/personal-portfolio-website/static/media/productPage.baf1ffcc820275f7d0f8.png",
+    "static/media/webPorto.png": "/personal-portfolio-website/static/media/webPorto.aa5022f7ef508d7a91f2.png",
+    "static/media/shipNowJMP.png": "/personal-portfolio-website/static/media/shipNowJMP.4f45dfc62163188fcdb1.png",
+    "static/media/Home Page.png": "/personal-portfolio-website/static/media/Home Page.607ec1f01a91e49f568d.png",
+    "static/media/splashScreen.jpg": "/personal-portfolio-website/static/media/splashScreen.dbf7cf9f63ad2fbcb1cf.jpg",
+    "static/media/splashScreen2.png": "/personal-portfolio-website/static/media/splashScreen2.f43b27a19a6f0f82b1d5.png",
+    "static/media/Scan.png": "/personal-portfolio-website/static/media/Scan.85fe57ed82a7e19f5605.png",
+    "static/media/SplashScreen1.png": "/personal-portfolio-website/static/media/SplashScreen1.2465b63617ebb9f20124.png",
+    "index.html": "/personal-portfolio-website/index.html",
+    "static/media/LandPageBG2.svg": "/personal-portfolio-website/static/media/LandPageBG2.52574ce45b04d8acef026c6d186e37df.svg",
+    "static/media/mainPageMenu3.svg": "/personal-portfolio-website/static/media/mainPageMenu3.8cd63c9e3c9228be35267c073329cf20.svg",
+    "main.36ef2849.css.map": "/personal-portfolio-website/static/css/main.36ef2849.css.map",
+    "main.c9d4bc1e.js.map": "/personal-portfolio-website/static/js/main.c9d4bc1e.js.map",
+    "453.825e3387.chunk.js.map": "/personal-portfolio-website/static/js/453.825e3387.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36ef2849.css",
+    "static/js/main.c9d4bc1e.js"
+  ]
+}
